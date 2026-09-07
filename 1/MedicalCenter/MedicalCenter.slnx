@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MedicalCenter/Client.csproj" />
+  <Project Path="Server/Server.csproj" />
+  <Project Path="Tests/Tests.csproj" Id="e4faa545-673d-4800-84c4-fed04800d87f" />
+</Solution>

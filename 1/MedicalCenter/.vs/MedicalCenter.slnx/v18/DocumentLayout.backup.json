@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Labs_7sem\\RiOT\\1\\MedicalCenter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FAA545-673D-4800-84C4-FED04800D87F}|Tests\\Tests.csproj|d:\\labs_7sem\\riot\\1\\medicalcenter\\tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FAA545-673D-4800-84C4-FED04800D87F}|Tests\\Tests.csproj|solutionrelative:tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4EE25E7-047A-43F9-5BF0-8F9D10F4E900}|MedicalCenter\\Client.csproj|d:\\labs_7sem\\riot\\1\\medicalcenter\\medicalcenter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4EE25E7-047A-43F9-5BF0-8F9D10F4E900}|MedicalCenter\\Client.csproj|solutionrelative:medicalcenter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3461765F-60A1-21BC-764E-FC799869FE2F}|Server\\Server.csproj|d:\\labs_7sem\\riot\\1\\medicalcenter\\server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3461765F-60A1-21BC-764E-FC799869FE2F}|Server\\Server.csproj|solutionrelative:server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4EE25E7-047A-43F9-5BF0-8F9D10F4E900}|MedicalCenter\\Client.csproj|d:\\labs_7sem\\riot\\1\\medicalcenter\\medicalcenter\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4EE25E7-047A-43F9-5BF0-8F9D10F4E900}|MedicalCenter\\Client.csproj|solutionrelative:medicalcenter\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Labs_7sem\\RiOT\\1\\MedicalCenter\\Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\Labs_7sem\\RiOT\\1\\MedicalCenter\\Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAADwv1kAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T10:18:27.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Server.cs",
+              "DocumentMoniker": "D:\\Labs_7sem\\RiOT\\1\\MedicalCenter\\Server\\Server.cs",
+              "RelativeDocumentMoniker": "Server\\Server.cs",
+              "ToolTip": "D:\\Labs_7sem\\RiOT\\1\\MedicalCenter\\Server\\Server.cs",
+              "RelativeToolTip": "Server\\Server.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAEwEIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T10:07:33.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Labs_7sem\\RiOT\\1\\MedicalCenter\\MedicalCenter\\Program.cs",
+              "RelativeDocumentMoniker": "MedicalCenter\\Program.cs",
+              "ToolTip": "D:\\Labs_7sem\\RiOT\\1\\MedicalCenter\\MedicalCenter\\Program.cs",
+              "RelativeToolTip": "MedicalCenter\\Program.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAvwNEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T10:07:30.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\Labs_7sem\\RiOT\\1\\MedicalCenter\\MedicalCenter\\Client.cs",
+              "RelativeDocumentMoniker": "MedicalCenter\\Client.cs",
+              "ToolTip": "D:\\Labs_7sem\\RiOT\\1\\MedicalCenter\\MedicalCenter\\Client.cs",
+              "RelativeToolTip": "MedicalCenter\\Client.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAADQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T10:07:18.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

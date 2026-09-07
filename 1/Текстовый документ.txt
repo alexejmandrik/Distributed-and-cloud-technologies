@@ -1,0 +1,36 @@
+1. RegisterPatient
+   Иванов Иван Иванович
+   15.03.1995
+   80291234567
+   → PatientId = 1
+
+2. BookAppointment
+   PatientId = 1
+   DoctorId = 1
+   ServiceId = 1
+   10.09.2026 10:00
+   → AppointmentId = 1
+
+3. CompleteAppointment
+   AppointmentId = 1
+   → статус Completed
+   → Payment создан на 50
+
+4. BookAppointment
+   PatientId = 1
+   DoctorId = 2
+   ServiceId = 2
+   11.09.2026 14:00
+   → AppointmentId = 2
+
+5. CancelAppointment
+   AppointmentId = 2
+   → статус Cancelled
+
+6. Проверка ошибок
+   → PatientId = 999
+   → DoctorId = 999
+   → ServiceId = 999
+   → неправильная дата
+   → неизвестная операция
+   → сервер выключен
